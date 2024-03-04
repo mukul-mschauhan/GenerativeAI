@@ -3,7 +3,7 @@ This repository focuses on Generative AI Projects.
 
 You can find the Research Paper of LLM Models [here](https://arxiv.org/pdf/2307.09288.pdf)
 
-# Brief Summary of the Research Paper
+# Brief Summary of the LLAMA 2 Research Paper
 
 ## Introduction to LLaMA 2
 

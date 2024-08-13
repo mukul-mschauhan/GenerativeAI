@@ -1,3 +1,7 @@
+
+![JECRC](https://github.com/user-attachments/assets/ba99d2d1-78b3-466b-8dca-7dcf44d22d07)
+
+
 # GenerativeAI
 This repository focuses on Generative AI Projects.
 

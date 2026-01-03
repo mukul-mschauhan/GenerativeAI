@@ -2,9 +2,13 @@
 
 ![JECRC](https://github.com/user-attachments/assets/ba99d2d1-78b3-466b-8dca-7dcf44d22d07)
 
-
 # GenerativeAI
 This repository focuses on Generative AI Projects.
+
+
+A Comprehensive Guide to Vector Databases [here](https://medium.com/@mukul.mschauhan/a-comprehensive-guide-to-vector-databases-the-future-of-ai-driven-data-retrieval-f8d2e732f98a)
+
+Guide to LLM Selection for business [here](https://medium.com/@mukul.mschauhan/dont-just-pick-the-popular-model-pick-the-right-one-a-practical-guide-to-llm-selection-9799fc0ff03d)
 
 You can find the Research Paper of LLAMA2 [here](https://arxiv.org/pdf/2307.09288.pdf)
 
